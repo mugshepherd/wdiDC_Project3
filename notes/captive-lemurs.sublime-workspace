@@ -1,0 +1,704 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"to",
+				"totalValue"
+			],
+			[
+				"num",
+				"numShares"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"shares",
+				"sharesInput"
+			],
+			[
+				"btn",
+				"btn-info"
+			],
+			[
+				"game",
+				"gameCleanup"
+			],
+			[
+				"is",
+				"isCounting"
+			],
+			[
+				"start",
+				"startNumber"
+			],
+			[
+				"dec",
+				"decrementTimer"
+			],
+			[
+				"reset",
+				"resetCounter"
+			],
+			[
+				"stop",
+				"stopCounter"
+			],
+			[
+				"counter",
+				"counterValue"
+			],
+			[
+				"count",
+				"counterValue"
+			],
+			[
+				"coun",
+				"counterValue"
+			],
+			[
+				"conter",
+				"counterValue"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "as a user I want to \n ☐ be able to interact with a map by panning and zooming\n ☐ query database by species\n ☐ query database by district\n ☐ query database by year (data for past 15 years)\n ☐ have the map display zones where query criteria are true\n",
+			"file": "mvps.todo",
+			"file_size": 0,
+			"file_write_time": 130757621620000000,
+			"settings":
+			{
+				"buffer_size": 248,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/toby/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+			"settings":
+			{
+				"buffer_size": 6088,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": " ✔ install post gis @done (15-05-10 18:06)\n ✔ install  turf @done (15-05-10 18:06)\n ☐ 411 example sites (for front end)\n ☐ 411 turf  (https://github.com/Turfjs/turf)\n location for photos?\n link with Madagascar admin layer?\n \n",
+			"file": "todos.todo",
+			"file_size": 0,
+			"file_write_time": 130757630450000000,
+			"settings":
+			{
+				"buffer_size": 225,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Install Package"
+			],
+			[
+				"COLORSUBLIME",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"COLORSUBL	",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"COLORSUBLI		",
+				"Colorsublime: Install Theme"
+			]
+		],
+		"width": 288.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/toby/GA/projects/captive-lemurs",
+		"/Users/toby/GA/projects/captive-lemurs/app",
+		"/Users/toby/GA/projects/captive-lemurs/app/assets",
+		"/Users/toby/GA/projects/captive-lemurs/app/assets/javascripts",
+		"/Users/toby/GA/projects/captive-lemurs/app/assets/stylesheets",
+		"/Users/toby/GA/projects/captive-lemurs/assets",
+		"/Users/toby/GA/projects/captive-lemurs/notes",
+		"/Users/toby/GA/projects/captive-lemurs/test",
+		"/Users/toby/GA/projects/captive-lemurs/vendor"
+	],
+	"file_history":
+	[
+		"/Users/toby/GA/projects/captive-lemurs/notes/test.md",
+		"/Users/toby/GA/projects/captive-lemurs/notes/todos.todo",
+		"/Users/toby/GA/projects/captive-lemurs/notes.todo",
+		"/Users/toby/GA/milk/trillo_static_ajax_rails_api/trillo/app/views/cards/index.html.erb",
+		"/Users/toby/GA/milk/spotify-me/js/views/result_view.js",
+		"/Users/toby/GA/milk/spotify-me/index.html",
+		"/Users/toby/GA/milk/spotify-me/notes",
+		"/Users/toby/GA/milk/spotify-me/js/models/result.js",
+		"/Users/toby/GA/milk/HuffinginPost_w08d03-warmup/d03_warmup/img/challenge3.png",
+		"/Users/toby/GA/milk/HuffinginPost_w08d03-warmup/d03_warmup/css-problems.html",
+		"/Users/toby/GA/milk/HuffinginPost_w08d03-warmup/d03_warmup/readme.md",
+		"/Users/toby/GA/milk/d02b_ajax/exercises/ajax_weather_underground/script.js",
+		"/Users/toby/GA/milk-and-cookies/w08/d02b_ajax/exercises/ajax_weather_underground/index.html",
+		"/Users/toby/GA/milk-and-cookies/w08/d02b_ajax/exercises/ajax_weather_underground/script.js",
+		"/Users/toby/GA/milk-and-cookies/w08/d02_rails_api/exercises/trillo_starter/trillo/app/controllers/application_controller.rb",
+		"/Users/toby/GA/projects/wdinstagram/WDInstagram/app/controllers/entries_controller.rb",
+		"/Users/toby/GA/milk-and-cookies/w08/d02_rails_api/exercises/trillo_starter/trillo/app/controllers/cards_controller.rb",
+		"/Users/toby/GA/milk/stock-tracker_class-review/js/application.js",
+		"/Users/toby/GA/milk/stock-tracker_class-review/js/views/stock.js",
+		"/Users/toby/GA/projects/stock-tracker/js/application.js",
+		"/Users/toby/GA/milk/stock-tracker_class-review/js/models/stock.js",
+		"/Users/toby/GA/milk/stock-tracker_class-review/index.html",
+		"/Users/toby/GA/milk/stock-tracker_class-review/notes",
+		"/Users/toby/GA/projects/stock-tracker/js/models/stock.js",
+		"/Users/toby/GA/projects/stock-tracker/notes.md",
+		"/Users/toby/GA/projects/stock-tracker/README.md",
+		"/Users/toby/GA/projects/stock-tracker/js/views/stock.js",
+		"/Users/toby/GA/projects/stock-tracker/index.html",
+		"/Users/toby/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/toby/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/toby/GA/milk/in-class_scratch/w08/d01_object_oriented_javascript/exercises/object-oriented-tic-tac-toe/starter/js/views/game.js",
+		"/Users/toby/GA/milk/in-class_scratch/w08/d01_object_oriented_javascript/exercises/object-oriented-tic-tac-toe/starter/js/app.js",
+		"/Users/toby/GA/milk/in-class_scratch/w08/d01_object_oriented_javascript/exercises/object-oriented-tic-tac-toe/starter/project_notes",
+		"/Users/toby/GA/milk/in-class_scratch/w08/d01_object_oriented_javascript/exercises/object-oriented-tic-tac-toe/starter/index.html",
+		"/Users/toby/GA/milk/in-class_scratch/w08/d01_object_oriented_javascript/exercises/object-oriented-tic-tac-toe/starter/js/models/game.js",
+		"/Users/toby/GA/milk-and-cookies/w08/d01_object_oriented_javascript/exercises/object-oriented-tic-tac-toe/starter/js/models/game.js",
+		"/Users/toby/GA/milk-and-cookies/w08/d01_object_oriented_javascript/exercises/object-oriented-tic-tac-toe/starter/js/views/game.js",
+		"/Users/toby/GA/milk-and-cookies/w08/d01_object_oriented_javascript/exercises/object-oriented-tic-tac-toe/starter/js/app.js",
+		"/Users/toby/GA/projects/ticTacToe/index_v2.html",
+		"/Users/toby/GA/projects/ticTacToe/assets/stylesheets/index_v2.css",
+		"/Users/toby/GA/projects/ticTacToe/assets/js/index_v2.js",
+		"/Users/toby/GA/projects/ticTacToe/assets/index_v2.js",
+		"/Users/toby/GA/projects/ticTacToe/index_v2.css",
+		"/Users/toby/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/Users/toby/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/toby/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_swapping.sublime-settings",
+		"/Users/toby/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_wrapping.sublime-settings",
+		"/Users/toby/GA/projects/ticTacToe/index_v1.html",
+		"/Users/toby/GA/milk/final-countdown/index.html",
+		"/Users/toby/GA/milk/final-countdown/index2_functionsBrokenOut.html",
+		"/Users/toby/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/toby/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/toby/GA/projects/ticTacToe/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"done",
+			"complete",
+			"left",
+			"})\n",
+			"square",
+			"stock",
+			"\"",
+			"(",
+			"{",
+			":",
+			"gameCleanup();",
+			"<",
+			">",
+			"\">\n",
+			">",
+			"index_v2.html",
+			"#",
+			"\"o\"",
+			"delay",
+			"\n",
+			"(",
+			"var",
+			";\n",
+			"});",
+			"      });",
+			"});",
+			",",
+			"[],\n",
+			"function",
+			"tictactoe\"",
+			"script",
+			"indicator",
+			"counterValue",
+			"startCounting",
+			"$(\"#counter\")",
+			"www.newmediacampaigns.com/blog/how-to-use-json-apis-with-jquery"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mvps.todo",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/toby/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								794,
+								798
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "todos.todo",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				2
+			],
+			[
+				2,
+				0,
+				3,
+				2
+			],
+			[
+				3,
+				0,
+				4,
+				2
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.412961814896,
+			0.5,
+			0.75,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "captive-lemurs.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 3,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
