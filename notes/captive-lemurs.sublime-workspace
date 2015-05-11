@@ -91,10 +91,7 @@
 			}
 		},
 		{
-			"contents": " ✔ install post gis @done (15-05-10 18:06)\n ✔ install  turf @done (15-05-10 18:06)\n ☐ 411 example sites (for front end)\n ☐ 411 turf  (https://github.com/Turfjs/turf)\n location for photos?\n link with Madagascar admin layer?\n \n",
 			"file": "todos.todo",
-			"file_size": 0,
-			"file_write_time": 130757630450000000,
 			"settings":
 			{
 				"buffer_size": 225,
@@ -301,7 +298,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -388,7 +385,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -477,7 +474,7 @@
 						"translation.y": 171.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -688,7 +685,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 3,
+	"selected_group": 4,
 	"settings":
 	{
 	},
