@@ -26,7 +26,7 @@ I am also planning on using the Mapbox.js api for the map.
 
 ##Milestones for Week
 1. Monday:  ERDs fully laid out.  Basic functionality for Mapbox API in place.  API set up for data to be queried.  
-2. Tuesday:  Photos uploaded.  Search functionality in place.  
+2. Tuesday:  Photos uploaded.  Search functionality in place.  Figaro
 3. Wednesday:  Popup in place for individual records when clicked. 
 4. Thursday:  final touches on website.  
 5. Friday:  Presentation of site
