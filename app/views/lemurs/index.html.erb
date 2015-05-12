@@ -1,0 +1,7 @@
+<h1> Hello world </h1>
+
+<% @lemurs.each do |lemur| %>
+<li>Observation:  <%= lemur.id %> <%= lemur.species %></li>
+Region:  <%= lemur.region %>
+Year:  <%= lemur.year %></li>
+<% end %>

@@ -5,3 +5,9 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+Lemur.create(species: 'Eulemur fulvus', region: 'Diana', year: '1981')
+Lemur.create(species: 'Eulemur collaris', region: 'Anosy', year: '1987')
+Lemur.create(species: 'Microcebus sp.', region: 'Anosy', year: '1987')
+Lemur.create(species: 'Unknown', region: 'Vakinankaratra', year: '1988')
+Lemur.create(species: 'Microcebus sp.', region: 'Analamanga', year: '1990')
