@@ -1,7 +1,11 @@
-<h1> Hello world </h1>
+<h1> Observations of illegally captured lemurs in Madagascar: </h1>
 
-<% @lemurs.each do |lemur| %>
-<li>Observation:  <%= lemur.id %> <%= lemur.species %></li>
-Region:  <%= lemur.region %>
-Year:  <%= lemur.year %></li>
-<% end %>
+<div id='lemur_list'> 
+
+	<ul>
+	<% @lemurs.each do |lemur| %>
+	  <li><%= link_to lemur.species, lemur %></li>
+	<% end %>
+	</ul>
+
+</div>

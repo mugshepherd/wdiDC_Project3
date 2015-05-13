@@ -30,3 +30,7 @@ I am also planning on using the Mapbox.js api for the map.
 3. Wednesday:  Popup in place for individual records when clicked. 
 4. Thursday:  final touches on website.  
 5. Friday:  Presentation of site
+
+
+##Instructions
+1. when installing, run "rake db:create db:migrate seed:lemur_seed".  seed:lemur_seed is a rake command created to pull seed data from the 'db/seed_lemurs.csv' file
