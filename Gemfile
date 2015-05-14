@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 #pagination
-gem 'kaminari'
+gem 'will_paginate', '~> 3.0.6'
 
 #filter values
 gem 'filterrific'

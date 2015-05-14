@@ -1,0 +1,25 @@
+
+<div id="filterrific_results">
+
+  <div>
+    <%= page_entries_info lemurs %>
+  </div>
+
+  <table>
+    <tr>
+      <th>Species</th>
+      <th>Region</th>
+      <th>Year</th>
+    </tr>
+    <% lemurs.each do |lemur| %>
+      <tr>
+        <td><%= link_to(lemur.species, lemur_path(@lemur)) %></td>
+        <td><%= lemur.species %></td>
+        <td><%= lemur.region %></td>
+        <td><%= lemur.year %></td>
+      </tr>
+    <% end %>
+  </table>
+</div>
+
+<%= will_paginate lemurs %>
