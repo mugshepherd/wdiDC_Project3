@@ -3,30 +3,27 @@
 minimal functionality in place so far.  Accessing data in db; map api not yet installed.
 
 <div class="filter_options_container">
-<h2>dropdowns to filter data</h2>
+	<h2>dropdowns to filter data</h2>
+</div>
 
-
+<div class="form-section">
   <form class="filter_form">
-		<%= select("lemur", "species", Lemur.all.collect(&:species)) %>
+		<%= select("lemur", "species", Lemur.all.collect(&:species).uniq.sort()) %>
     <input type="submit" value="Filter" />
   </form>
 	<form class="filter_form">
-		<%= select("lemur", "region", Lemur.all.collect(&:region)) %>
+		<%= select("lemur", "region", Lemur.all.collect(&:region).uniq.sort()) %>
     <input type="submit" value="Filter" />
   </form>
 	<form class="filter_form">
-		<%= select("lemur", "year", Lemur.	 pluck(&:year)) %>
+		<%= select("lemur", "year", Lemur.all.collect(&:year).uniq.sort()) %>
     <input type="submit" value="Filter" />
   </form>
-Filtering and Sorting not in place yet.  
-Need to filter for unique values, as well as give option for "no value
-Values selected from the drop downs (ideally checkboxes) will used to query the map to note those regions that meet the query criteria.
-
 </div>
 
-<div class="unique-values">
-<h2>Same data, listing unique values:</h2>
-	<div class="attribute">Species Name:</div>  <%=@lemurs.uniq.pluck(:species)%>
-	<div class="attribute">Region of Sighting:</div>  <%=@lemurs.uniq.pluck(:region) %>
-	<div class="attribute">Year of Sighting:</div>  <%=@lemurs.uniq.pluck(:year) %>
+<div class="instructions">
+	Filtering not in place yet.  
+	Need to give option for "no value included"
+	Values selected from the drop downs (ideally checkboxes) will used to query the map to note those regions that meet the query criteria.
 </div>
+
