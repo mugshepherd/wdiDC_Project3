@@ -1,0 +1,6 @@
+as a user I want to 
+ ☐ be able to interact with a map by panning and zooming
+ ☐ query database by species
+ ☐ query database by district
+ ☐ query database by year (data for past 15 years)
+ ☐ have the map display zones where query criteria are true

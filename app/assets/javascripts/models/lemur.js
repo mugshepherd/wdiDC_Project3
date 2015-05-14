@@ -1,34 +1,34 @@
 // this page still under development
 
-var Lemur = function(id, species, region, year){
-  this.id = id;
-  this.species = species;
-  this.region = region;
-  this.year = year;
-}
+// var Lemur = function(id, species, region, year){
+//   this.id = id;
+//   this.species = species;
+//   this.region = region;
+//   this.year = year;
+// }
 
-Lemur.prototype = {
-  get: function: (){
-   $.ajax({
-      url: 'http://localhost:3000'
-      data: {
-       format: 'json'
-      },
-      error: function() {
-       $('#info').html('<p>An error has occurred</p>');
-      },
-      dataType: 'jsonp',
-      success: function(data) {
-       var $species = $('<h1>').text(data.lemur[0].species);
-       var $year = $('<p>').text(data.lemur[0].year);
-       $('#info')
-        .append($species)
-        .append($year);
-    },
-    type: 'GET'
-   });
-  };
-}
+// Lemur.prototype = {
+//   get: function: (){
+//    $.ajax({
+//       url: 'http://localhost:3000'
+//       data: {
+//        format: 'json'
+//       },
+//       error: function() {
+//        $('#info').html('<p>An error has occurred</p>');
+//       },
+//       dataType: 'jsonp',
+//       success: function(data) {
+//        var $species = $('<h1>').text(data.lemur[0].species);
+//        var $year = $('<p>').text(data.lemur[0].year);
+//        $('#info')
+//         .append($species)
+//         .append($year);
+//     },
+//     type: 'GET'
+//    });
+//   };
+// }
 
 // Card.prototype = {
 //   save: function(){

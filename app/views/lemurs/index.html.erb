@@ -1,11 +1,15 @@
-<h1> Observations of illegally captured lemurs in Madagascar: </h1>
+<h1> Illegally captured lemurs in Madagascar: </h1>
 
-<div id='lemur_list'> 
-
-	<ul>
-	<% @lemurs.each do |lemur| %>
-	  <li><%= link_to lemur.species, lemur %></li>
+ 
+<!-- eventually I would like a drop down in this location -->
+<select name="lemur_id">
+	<%= @lemurs.each do |lemur| %>
+		<option value="<%= lemur.id %>"><%= lemur.species %></option>
 	<% end %>
-	</ul>
+</select>
 
-</div>
+
+
+<% @lemurs.each do |lemur| %>
+<ul><%= lemur.id %> - Species: <%= lemur.species %>, Region: <%= lemur.region %>, Year: <%= lemur.year %></ul>
+<% end %>

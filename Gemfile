@@ -1,5 +1,11 @@
 source 'https://rubygems.org'
 
+#pagination
+gem 'kaminari'
+
+#filter values
+gem 'filterrific'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
