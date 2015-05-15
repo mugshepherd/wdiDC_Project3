@@ -20,7 +20,7 @@ function initializeMap(){
     'opacity': 0.6
   };
 
-  var map = L.map('map').fitBounds(geojson.getBounds()).setView([-18.906, 47.516], 6); 
+  var map = L.map('map').fitBounds(geojson.getBounds()).setView([-18.906, 47.516], 5); 
   	madaTiles.addTo(map);
   	geojson.addTo(map);
 
