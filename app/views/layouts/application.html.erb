@@ -2,15 +2,16 @@
 <html>
 <head>
   <title>CaptiveLemurs</title>
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   
-	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
 	<link rel="points" type="application/json" href= "/MDG_adm2_3.json" />
 
-	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
-  <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+<%= stylesheet_link_tag "//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" %>
+<%= javascript_include_tag "//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js" %>
 
+ <script src="https://code.jquery.com/jquery-2.1.0.min.js"></script>
+
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
 
   <%= csrf_meta_tags %>
 
